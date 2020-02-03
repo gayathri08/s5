@@ -11,5 +11,4 @@ public class AgeTest {
 		Age age=new Age();
 		assertEquals("eligible to vote",age.election(23));
 	}
-
 }

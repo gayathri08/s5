@@ -1,7 +1,7 @@
 package demo;
 
 public class Age {
-	String election(int age)
+	static String election(int age)
 	{
 		if(age>=18)
 		{
